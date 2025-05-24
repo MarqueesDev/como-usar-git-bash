@@ -1,5 +1,30 @@
 # Como usar Git simples
 
+## 📚 Índice
+
+- [📌 Introdução](#como-usar-git-simples)
+- [🛠️ Fluxo de trabalho](#fluxo-de-trabalho)
+- [⚙️ Configurando o Git](#após-a-instalação-do-git)
+  - [Editor padrão](#configurar-qual-editor-usar-no-git)
+- [📁 Criando repositório local](#criando-um-novo-repositório)
+- [🌐 Adicionando repositório remoto](#adicionando-um-repositório-remoto)
+- [📥 Clonando repositório existente](#clonando-um-repositório-existente)
+- [🧹 Removendo arquivos](#apagando-arquivos-do-repositório-local)
+- [🌿 Trabalhando com branches](#trabalhando-com-branches)
+- [🔄 Atualizando branches remotas](#atualizando-branches-remotas)
+- [➕ Adicionando arquivos à staging](#adicionando-arquivos-para-a-staging-area-index)
+- [➖ Removendo arquivos da staging](#removendo-arquivos-da-staging-area)
+- [✅ Commits](#fazendo-e-desfazendo-commits)
+- [⬇️ Usando git pull](#usando-o-comando-git-pull)
+- [⬆️ Usando git push](#usando-o-comando-git-push)
+- [🔧 Comandos complementares](#comandos-complementares)
+  - [Git fetch](#git-fetch)
+  - [Git merge](#git-merge)
+- [💣 Remoção forçada de arquivos](#remoção-forçada-de-arquivos)
+- [📦 Arquivos grandes com Git LFS](#gerenciando-arquivos-grandes-com-git-lfs)
+- [🪟 Caminhos longos no Windows](#caminhos-longos-no-windows)
+
+
 <h2>Fluxo de trabalho</h2>
 
 <p>Seus repositórios locais consistem em três "árvores" mantidas pelo Git. A primeira delas é seu <code>Working Directory</code>, que contém os arquivos do seu projeto. A segunda é o <code>Index</code> (também chamado de <code>Staging Area</code>), que funciona como uma área temporária onde os arquivos ficam preparados antes de serem confirmados. E por fim, o <code>HEAD</code>, que aponta para o último commit (confirmação) que você fez.</p>
