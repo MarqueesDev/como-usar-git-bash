@@ -1,5 +1,12 @@
 # Como usar Git simples
 
+📘 Um repositório feito com atenção e simplicidade para quem quer aprender Git de verdade, sem enrolação. Aqui você encontra explicações diretas, comandos prontos para copiar e exemplos visuais que tornam o aprendizado muito mais leve e acessível — ideal para iniciantes e curiosos.
+
+>Pronto pra usar no terminal, nos seus códigos ou documentações.  
+Feito com ❤️ e dedicação. 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg) &nbsp; Contribuições são super bem-vindas!
+
 ## 📚 Índice
 
 - [📌 Introdução](#como-usar-git-simples)
@@ -406,3 +413,7 @@ git config --system core.longpaths true
 ```
 
 <p>⚠️ Execute o terminal como administrador.</p>
+
+> 💜 Este guia foi feito com muito carinho pensando em você que está começando agora. Errar faz parte do aprendizado, então vá com calma, explore, e não tenha medo de tentar. Se esse material te ajudou, considere deixar uma estrela no repositório — ela pode ser pequena, mas significa muito pra quem criou 🌟
+
+<p align="right"><a href="#📚-índice">🔝 Voltar ao topo</a></p>
