@@ -5,7 +5,8 @@
 >Pronto pra usar no terminal, nos seus códigos ou documentações.  
 Feito com ❤️ e dedicação. 
 
-![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg) &nbsp; Contribuições são super bem-vindas!
+![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)
+[![Contribuições são super bem-vindas!](https://img.shields.io/badge/Contribuições-são%20super%20bem--vindas!-blueviolet)]([../../issues](https://github.com/MarqueesDev/como-usar-git-bash/issues))
 
 ## 📚 Índice
 
